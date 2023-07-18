@@ -3,7 +3,7 @@
 
 
 1. RedPajama: https://www.storminthecastle.com/posts/finetune_redpajama/
-2. 
+2. Accelerating LLaMA with Fabric: https://lightning.ai/pages/community/tutorial/accelerating-llama-with-fabric-a-comprehensive-guide-to-training-and-fine-tuning-llama/
 
 
 
