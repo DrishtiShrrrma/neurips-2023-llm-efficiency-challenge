@@ -17,4 +17,4 @@
 
 # Interesting Reads
 
-1. Adapter-LLaMA : https://lupantech.github.io/papers/arxiv23_llama.pdf
+1. LLaMA-Adapter : https://lupantech.github.io/papers/arxiv23_llama.pdf
