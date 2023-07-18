@@ -5,6 +5,7 @@
 1. RedPajama: https://www.storminthecastle.com/posts/finetune_redpajama/
 2. Accelerating LLaMA with Fabric: https://lightning.ai/pages/community/tutorial/accelerating-llama-with-fabric-a-comprehensive-guide-to-training-and-fine-tuning-llama/
 3. How To Fine-Tune LLaMA, OpenLLaMA, And XGen, With JAX On A GPU Or A TPU: https://nlpcloud.com/how-to-fine-tune-llama-openllama-xgen-with-jax-on-tpu-gpu.html
+4. Train LLaMA with RLHF (StackLLaMA): https://huggingface.co/blog/stackllama 
 
 
 
