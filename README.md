@@ -7,6 +7,7 @@
 3. How To Fine-Tune LLaMA, OpenLLaMA, And XGen, With JAX On A GPU Or A TPU: https://nlpcloud.com/how-to-fine-tune-llama-openllama-xgen-with-jax-on-tpu-gpu.html
 4. Train LLaMA with RLHF (StackLLaMA): https://huggingface.co/blog/stackllama
 5. LLaMA with QLoRA: https://medium.com/@anchen.li/how-to-fine-tune-an-open-source-llama-using-qlora-3a9a68c4eb90
+6. Fine-tuning LLaMA and Alpaca: https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning
 
 
 
