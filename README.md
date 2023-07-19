@@ -26,3 +26,5 @@
 
 ![image](https://github.com/DrishtiShrrrma/LLMs/assets/129742046/de0af1b6-5966-4abf-a947-248f97f870b3)
 
+2. https://huggingface.co/blog/trl-peft
+
