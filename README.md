@@ -18,6 +18,9 @@
 3. LoRA introduces trainable rank decomposition matrices into each layer.
 4. Adapter involves inserting lightweight modules into each layer of pretrained models, with only the adapters being trained during fine-tuning
 
+# How to Evaluate LLMs?
+
+1. https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/
 
 # Interesting Reads
 
